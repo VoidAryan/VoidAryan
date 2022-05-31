@@ -4,12 +4,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Newbie+Developer+From+India%E2%9C%8C%EF%B8%8F;Owner+of+Void+Network%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
-  <a href="https://t.me/voidxtoxic"><img src="https://telegra.ph/file/71b218e8bcfc02fb76460.jpg" alt="VOID"></a>
-<a href="https://telegram.me/Voidxtoxic">
+  <a href="https://t.me/voidaryan"><img src="https://telegra.ph/file/c31fab8c18b33120f2005.jpg" alt="VOID"></a>
+<a href="https://telegram.me/Voidaryan">
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
   </a>  
  </a>
-  <a href="https://github.com/voidxtoxic">
+  <a href="https://github.com/voidaryan">
     <img src="https://img.shields.io/github/followers/voidxtoxic?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
   </a>
 
