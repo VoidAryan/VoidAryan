@@ -3,7 +3,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=808080&width=420&lines=A+Basic+Programmer+From+India;Currently+Studying+As+Student;Contact+Me+Through+Given+G-Mail">
 </p>
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
 <BR>
     
 <b> `PROGRAMMER | WEB-DEVELOPER` </b>
