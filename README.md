@@ -20,13 +20,12 @@
     <hr>
 <h1 align="center">Contact Void :</h1>
 <p align="center">  
-   <a href="mailto:VoidAryann@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+   <a href="mailto:VoidAryann@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=VoidAryan&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=telegram"> &nbsp; &nbsp;
     <a href="https://telegram.me/Void_Unfiltered">
         <img src="https://img.shields.io/badge/Telegram_Channel-grey?style=for-the-badge&logo=telegram"/>
-    </a> &nbsp; &nbsp;
-    <a href="https://github.com/voidxtoxic">
-        <img src="https://img.shields.io/github/followers/voidxtoxic?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
-    </a>
+    </a> 
+
 
 <hr>
 <p align="center">
