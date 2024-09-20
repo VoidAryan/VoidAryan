@@ -1,8 +1,19 @@
-<h1 align="center">Hey! I'm Void</h1>
+<h2 align="center">Welcome to My GitHub Profile</h2>
+<p align="center">
+ I'm Aryan Singh Shekhawat, a programmer craving to gain knowledge everyday. Explore my projects and feel free to connect with me, if you share the same passion for precision and creativity.
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=808080&width=420&lines=A+Basic+Programmer+From+India;Currently+Studying+As+Student;Contact+Me+Through+Given+G-Mail">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&width=420&lines=________________________________________________________________">
 </p>
+<p align="center">
+  <a href="https://voidaryan.netlify.app" target="_blank">
+    <img alt="Portfolio Website" title="Portfolio Website" src="https://img.shields.io/badge/-Portfolio Website-0D1117?style=for-the-badge&logo=koding&logoColor=white" style="border: 2px solid #7F3FBF; border-radius: 5px;"/>
+  </a>
+</p>
+
+  </a>
+</p>
+
     
 <h2 align="center">Open Source</h2>
 
