@@ -2,18 +2,37 @@
 <p align="center">
  I'm Aryan Singh Shekhawat, a programmer craving to gain knowledge everyday. Explore my projects and feel free to connect with me, if you share the same passion for precision and creativity.
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&width=420&lines=________________________________________________________________">
 </p>
+
 <p align="center">
   <a href="https://voidaryan.netlify.app" target="_blank">
-    <img alt="Portfolio Website" title="Portfolio Website" src="https://img.shields.io/badge/-Portfolio Website-0D1117?style=for-the-badge&logo=koding&logoColor=white" style="border: 2px solid #7F3FBF; border-radius: 5px;"/>
+    <img alt="Portfolio Website" title="Portfolio Website" src="https://img.shields.io/badge/-Portfolio Website-0D1117?style=for-the-badge&logo=koding&logoColor=white" style="border: 2px solid #7F3FBF; border-radius: 5px;"/> 
   </a>
-</p>
+</p> 
 
   </a>
 </p>
 
+<p align="center">
+  <a href="https://in.linkedin.com/in/voidaryan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="voidaryan"/></a> <a href="mailto:voidaryan@gmail.com" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="voidaryan"/>
+</a>
+ <br>
+ <a href="https://www.snapchat.com/add/voidaryan" target="blank">
+  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="voidaryan"/>
+</a>
+ <a href="https://www.instagram.com/voidaryan" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="voidaryan"/>
+</a> <a href="https://t.me/voidaryan" target="blank">
+  <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="voidaryan"/>
+</a>
+
+ </p>
+
+<br>
     
 <h2 align="center">Open Source</h2>
 
@@ -43,11 +62,21 @@
 <hr/>
 <br/>
 
+<div align="center">
+  <a href="https://github.com/VoidAryan/VoidAryan">
+    <img src="https://github-profile-trophy.vercel.app/?username=VoidAryan&theme=onedark" alt="Trophies">
+  </a>
+</div>
+
+<br>
+
 <p align="center">
   <a href="https://github.com/VoidAryan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoidAryan&theme=radical&border=7F3FBF&background=0D1117" alt="My GitHub streak"/>
   </a>
 </p>
+
+
 
 <p align="center">
   <a href="https://github.com/VoidAryan">
