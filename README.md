@@ -24,9 +24,9 @@
  <a href="https://www.snapchat.com/add/voidaryan" target="blank">
   <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="voidaryan"/>
 </a>
- <a href="https://www.instagram.com/voidaryan" target="blank">
+ <a href="https://www.instagram.com/aryanvoid" target="blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="voidaryan"/>
-</a> <a href="https://t.me/voidaryan" target="blank">
+</a> <a href="https://t.me/voidistic" target="blank">
   <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="voidaryan"/>
 </a>
 
